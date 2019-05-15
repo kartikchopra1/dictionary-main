@@ -1,0 +1,27 @@
+.App {
+}
+
+p {
+  text-align: center;
+}
+.App-logo {
+  color: #ffffff;
+  display: inline-block;
+  padding: 10px;
+  height: 8vmin;
+}
+
+.App-header {
+  background-color: #379cf2;
+  min-height: 100vh;
+  color: white;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
